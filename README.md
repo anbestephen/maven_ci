@@ -1,1 +1,1 @@
-This is a text project in continouse build.
+This is a basic java project in continouse build.
